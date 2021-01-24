@@ -26,20 +26,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/alphaleafmvndemo" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.makes10">
-    <configuration name="diff21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.diff21" />
-      <module name="codingbatanswers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="warmup1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.notString">
     <configuration name="makes10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.makes10" />
       <module name="codingbatanswers" />
@@ -53,8 +40,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="monkeyTrouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.monkeyTrouble" />
+    <configuration name="nearHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.nearHundred" />
+      <module name="codingbatanswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="warmup1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="notString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.notString" />
       <module name="codingbatanswers" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.sumDouble" />
+    <configuration name="posNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.posNeg" />
       <module name="codingbatanswers" />
       <extension name="coverage">
         <pattern>
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.notString" />
+        <item itemvalue="Application.posNeg" />
+        <item itemvalue="Application.nearHundred" />
         <item itemvalue="Application.makes10" />
         <item itemvalue="Application.parrotTrouble" />
-        <item itemvalue="Application.diff21" />
-        <item itemvalue="Application.sumDouble" />
-        <item itemvalue="Application.monkeyTrouble" />
       </list>
     </recent_temporary>
   </component>
@@ -120,22 +120,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1145" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1611464735860" />
-    <state width="1113" height="231" key="GridCell.Tab.0.bottom" timestamp="1611465114159">
+    <state width="1113" height="231" key="GridCell.Tab.0.bottom" timestamp="1611465212527">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1113" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611465114159" />
-    <state width="1113" height="231" key="GridCell.Tab.0.center" timestamp="1611465114158">
+    <state width="1113" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611465212527" />
+    <state width="1113" height="231" key="GridCell.Tab.0.center" timestamp="1611465212526">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1113" height="231" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611465114158" />
-    <state width="1113" height="231" key="GridCell.Tab.0.left" timestamp="1611465114158">
+    <state width="1113" height="231" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611465212526" />
+    <state width="1113" height="231" key="GridCell.Tab.0.left" timestamp="1611465212526">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1113" height="231" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611465114158" />
-    <state width="1113" height="231" key="GridCell.Tab.0.right" timestamp="1611465114158">
+    <state width="1113" height="231" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611465212526" />
+    <state width="1113" height="231" key="GridCell.Tab.0.right" timestamp="1611465212526">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1113" height="231" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611465114158" />
+    <state width="1113" height="231" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611465212526" />
     <state x="841" y="185" key="SettingsEditor" timestamp="1611464838074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
