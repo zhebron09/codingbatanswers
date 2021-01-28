@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a20dc9b-6acc-40d4-83b5-cc7d9d11d746" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/backAround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/backAround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/int1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/int1020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/intMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/intMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/lastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/lastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/max1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/max1020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/monkeyTrouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/monkeyTrouble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +53,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/alphaleafmvndemo" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.backAround">
+  <component name="RunManager" selected="Application.lastDigit">
     <configuration name="backAround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.backAround" />
       <module name="codingbatanswers" />
@@ -78,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="front22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.front22" />
+    <configuration name="lastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.lastDigit" />
       <module name="codingbatanswers" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lastDigit" />
         <item itemvalue="Application.backAround" />
         <item itemvalue="Application.everyNth" />
         <item itemvalue="Application.stringE" />
         <item itemvalue="Application.startHi" />
-        <item itemvalue="Application.front22" />
       </list>
     </recent_temporary>
   </component>
@@ -156,26 +163,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1145" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1611464735860" />
-    <state width="923" height="248" key="GridCell.Tab.0.bottom" timestamp="1611638809187">
+    <state x="743" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611706894851">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="923" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611638809187" />
-    <state width="923" height="248" key="GridCell.Tab.0.center" timestamp="1611638809187">
+    <state x="743" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1611706894851" />
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1611645828515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="923" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611638809187" />
-    <state width="923" height="248" key="GridCell.Tab.0.left" timestamp="1611638809186">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828515" />
+    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1611645828514">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="923" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611638809186" />
-    <state width="923" height="248" key="GridCell.Tab.0.right" timestamp="1611638809187">
+    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828514" />
+    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1611645828514">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="923" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611638809187" />
-    <state x="841" y="185" key="SettingsEditor" timestamp="1611464838074">
+    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828514" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1611645828515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="841" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611464838074" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828515" />
+    <state x="841" y="185" key="SettingsEditor" timestamp="1611896513499">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="841" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611896513499" />
     <state x="999" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611635240694">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -184,5 +195,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="685" y="201" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1611540360683" />
+    <state x="616" y="192" width="670" height="676" key="search.everywhere.popup" timestamp="1611708084494">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="192" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1611708084494" />
   </component>
 </project>

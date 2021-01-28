@@ -10,6 +10,7 @@ public class monkeyTrouble {
     monkeyTrouble(true, true) → true
     monkeyTrouble(false, false) → true
     monkeyTrouble(true, false) → false
+
      */
 
     public static boolean monkeyTrouble(boolean aSmile, boolean bSmile) {

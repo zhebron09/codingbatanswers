@@ -33,6 +33,6 @@ public class max1020 {
 
     public static void main(String[] args) {
 
-        System.out.println(max1020(11,19));     // practice
+        System.out.println(max1020(11,19));     // practice :)
     }
 }
