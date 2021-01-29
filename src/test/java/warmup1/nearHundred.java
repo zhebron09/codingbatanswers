@@ -13,12 +13,13 @@ public class nearHundred {
      */
 
     public static boolean nearHundred(int n) {
-        return (( Math.abs(100 - n) <= 10 || Math.abs(200 - n) <= 10 ));    // if 100 - the absolute value of n
-    }
+        return (( Math.abs(100 - n) <= 10 || Math.abs(200 - n) <= 10 ));    // if 100 - the absolute value of n is less than or equal to 10
+    }                                                                       // OR is 200 - the absolute value of n is <= 10 return true
+                                                                            // otherwise return false.
 
     public static void main(String[] args) {
         System.out.println(nearHundred(93));
-    }
+    }       // practice :)
 }
 
 
