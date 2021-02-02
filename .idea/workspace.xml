@@ -20,15 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a20dc9b-6acc-40d4-83b5-cc7d9d11d746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/string3/countYZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/string3/withoutString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/codingbatanswers.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/loneTeen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/loneTeen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/mixStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/mixStart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/or35.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/or35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/startHi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/startHi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/startOz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/startOz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/stringE.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/stringE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/logic2/roundSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/string3/withoutString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/string3/withoutString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/string3/withoutString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/string3/withoutString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.withoutString">
+  <component name="RunManager" selected="Application.roundSum">
     <configuration name="backAround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.backAround" />
       <module name="codingbatanswers" />
@@ -89,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="everyNth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.everyNth" />
+    <configuration name="lastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="warmup1.lastDigit" />
       <module name="codingbatanswers" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.lastDigit" />
+    <configuration name="roundSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic2.roundSum" />
       <module name="codingbatanswers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="warmup1.*" />
+          <option name="PATTERN" value="logic2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.roundSum" />
         <item itemvalue="Application.withoutString" />
         <item itemvalue="Application.countYZ" />
         <item itemvalue="Application.lastDigit" />
         <item itemvalue="Application.backAround" />
-        <item itemvalue="Application.everyNth" />
       </list>
     </recent_temporary>
   </component>
@@ -172,22 +166,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="743" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1611706894851" />
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1612649657892">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1613009100342">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
-    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1612649657892">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613009100342" />
+    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1613009100342">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
-    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1612649657892">
+    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613009100342" />
+    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1613009100341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
-    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1612649657892">
+    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613009100341" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1613009100342">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613009100342" />
     <state x="841" y="185" key="SettingsEditor" timestamp="1611896513499">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

@@ -17,23 +17,23 @@ public class withoutString {
     public static String withoutString(String base, String remove) {
 
         String result = "";
+
         int bLen = base.length();
         int rLen = remove.length();
 
-        for(int i = 0; i < bLen-rLen; i++){
-            result += base.charAt(i);
-            if(base.substring(i, i + rLen).equals(remove)){
-                break;
+        for(int i = 0; i < bLen;){
+            if(!(i + rLen > bLen) && base.substring(i, i + rLen).equalsIgnoreCase(remove)){
+                result += rLen;
+                continue;
             }
+            result += base.substring(i, i +1);
+            i++;
         }
         return result;
-
     }
 
     public static void main(String[] args) {
-        System.out.println(withoutString("Hello there", "llo"));
+        System.out.println(withoutString("Hello there", "ello"));
 
     }
-
-
 }
