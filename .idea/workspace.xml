@@ -20,11 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a20dc9b-6acc-40d4-83b5-cc7d9d11d746" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/int1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/int1020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/intMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/intMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/lastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/lastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/max1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/max1020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/warmup1/monkeyTrouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/warmup1/monkeyTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/string3/countYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/string3/withoutString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/codingbatanswers.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/loneTeen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/loneTeen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/mixStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/mixStart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/or35.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/or35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/startHi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/startHi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/startOz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/startOz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/warmup1/stringE.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/warmup1/stringE.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +62,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.lastDigit">
+  <component name="RunManager" selected="Application.withoutString">
     <configuration name="backAround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="warmup1.backAround" />
       <module name="codingbatanswers" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="warmup1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countYZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string3.countYZ" />
+      <module name="codingbatanswers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="startHi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.startHi" />
+    <configuration name="withoutString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string3.withoutString" />
       <module name="codingbatanswers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="warmup1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stringE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup1.stringE" />
-      <module name="codingbatanswers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="warmup1.*" />
+          <option name="PATTERN" value="string3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.withoutString" />
+        <item itemvalue="Application.countYZ" />
         <item itemvalue="Application.lastDigit" />
         <item itemvalue="Application.backAround" />
         <item itemvalue="Application.everyNth" />
-        <item itemvalue="Application.stringE" />
-        <item itemvalue="Application.startHi" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +161,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1145" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1611464735860">
@@ -167,22 +172,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="743" y="409" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1611706894851" />
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1611645828515">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1612649657892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828515" />
-    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1611645828514">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
+    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1612649657892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828514" />
-    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1611645828514">
+    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
+    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1612649657892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828514" />
-    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1611645828515">
+    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1612649657892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1611645828515" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612649657892" />
     <state x="841" y="185" key="SettingsEditor" timestamp="1611896513499">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -191,10 +196,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="999" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1611635240694" />
-    <state x="685" y="201" key="new project wizard" timestamp="1611540360683">
+    <state x="685" y="201" key="new project wizard" timestamp="1612661609281">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="685" y="201" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1611540360683" />
+    <state x="685" y="201" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1612661609281" />
     <state x="616" y="192" width="670" height="676" key="search.everywhere.popup" timestamp="1611708084494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
